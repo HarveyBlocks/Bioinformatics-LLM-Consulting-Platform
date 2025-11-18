@@ -46,7 +46,7 @@ knife4j:
   enable: true
   openapi:
     title: h-se
-    description: "软件工程作业接口文档,被拦截的用户(未登录的),将没有返回值, 而是statue_code = 401"
+    description: "生物信息咨询平台接口文档,被拦截的用户(未登录的),将没有返回值, 而是statue_code = 401"
     email: harvey.blocks@outlook.com
     concat: Harvey Blocks
     url: https://www.baidu.com
